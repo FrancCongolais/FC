@@ -1,2 +1,1 @@
-# FC
-Franc Congolais (FC) est nÃ© pour propulser la RDC vers l'Ã¨re numÃ©rique. Nous croyons en un avenir oÃ¹ chaque citoyen, du plus petit village Ã  la capitale, accÃ¨de Ã  un systÃ¨me financier rapide et Ã©quitable. FC, câ€™est lâ€™alliance du Franc Congolais et de la blockchain. Le futur, câ€™est FC.
+Franc Congolais (FC) est né pour propulser la RDC vers l'ère numérique. Nous croyons en un avenir où chaque citoyen, du plus petit village à la capitale, accède à un système financier rapide et équitable. FC, c’est l’alliance du Franc Congolais et de la blockchain. Le futur, c’est FC.
